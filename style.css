@@ -4,3 +4,6 @@
 .bgcfon {
     background-color: #d6eaf8;
 }
+#table1 {
+    display: table;
+}
